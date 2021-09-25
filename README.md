@@ -16,9 +16,9 @@ This application will use Express.js back end and will save and retrieve note da
 
 Open your favorite web browser and enter the following web address to access repo.
 
-https://jaimevilches87.github.io/note-taker/
+ https://jaimevilches87.github.io/express-challenger/
 
-https://github.com/JaimeVilches87/note-taker.git
+https://github.com/JaimeVilches87/express-challenger.git
 
 <a name="usage"></a>
 ## 3. Usage Tips
